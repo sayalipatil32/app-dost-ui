@@ -17,7 +17,7 @@ export default function RootLayout({ children }) {
         className={inter.className}
       >
         <Header />
-        <main className="min-h-screen">
+        <main className="min-h-screen overflow-x-hidden">
           {children}
         </main>
         <Footer />
