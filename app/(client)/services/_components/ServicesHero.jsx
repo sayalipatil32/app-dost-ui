@@ -25,7 +25,7 @@ export default function ServicesHero() {
                         {tag}
                     </div>
 
-                    <h1 className="text-5xl lg:text-6xl font-extrabold text-slate-900 mb-6">
+                    <h1 className="md:text-5xl text-4xl lg:text-6xl font-extrabold text-slate-900 mb-6">
                         {titleLine1}
                         <span className="block bg-linear-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
                             {titleGradient}
